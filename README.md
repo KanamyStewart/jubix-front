@@ -1,3 +1,3 @@
 Fins didaticos.
 
-e ai bora aprende um cadin de front? chamaaa
+e ai bora aprende um cadin de front? chamaaa 🔥
