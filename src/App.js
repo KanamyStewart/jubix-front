@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { Button } from 'reactstrap';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         >
           Que legal ele atualiza sozinho
         </a>
+        <Button color="danger">Danger!</Button>
       </header>
     </div>
   );
